@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-softimus",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "random-str-msg-softimus": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
